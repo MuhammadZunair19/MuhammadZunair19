@@ -1,9 +1,9 @@
 # I'm Muhammad Zunair
-**A passionate Full Stack AI Developer**
+**A passionate Full Stack AI Engineer | QA Engineer**
 
 Email Me 👉 ✉️ **lifedb20@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Fragnant E-Commerce Store
+
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** lifedbs20@gmail.com
 
